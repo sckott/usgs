@@ -17,7 +17,7 @@ require(usgs)
 > vcp_map(bbox="-1.1555796946844999E7,5220831.371255575,-1.1541665204054998E7,5230496.950050622", park="Agate_Fossil_Beds_NM", plot=TRUE)
 ```
 
-![thing](https://raw.github.com/ropensci/taxize_/master/inst/map.png)
+![thing](https://raw.github.com/ropensci/usgs/master/inst/map.png)
 
 
 ### Download the map to a file
