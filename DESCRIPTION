@@ -1,0 +1,20 @@
+Package: usgs
+Description: R interface to USGS APIs
+Title: R interface to USGS APIs
+Version: 0.1
+Date: 2013-02-07
+License: CC0
+URL: https://ropensci.github.com/usgs
+BugReports: https://github.com/ropensci/usgs/issues
+Imports:
+    XML,
+    RCurl (>= 1.6),
+    stringr,
+    plyr,
+    RJSONIO,
+Suggests:
+    testthat,
+    roxygen2
+Collate:
+    'usgs-package.r'
+    'vcp_map.r'
