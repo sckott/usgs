@@ -8,10 +8,8 @@ URL: https://ropensci.github.com/usgs
 BugReports: https://github.com/ropensci/usgs/issues
 Imports:
     XML,
-    RCurl (>= 1.6),
-    stringr,
-    plyr,
-    RJSONIO,
+    httr,
+    plyr
 Suggests:
     testthat,
     roxygen2
